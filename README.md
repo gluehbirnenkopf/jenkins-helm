@@ -1,3 +1,10 @@
+# Commands used by me
+
+Changed some default values to fit free ibm cluster (no loadbalancer IP, no PVC)
+```bash
+helm install . 
+```
+
 # Jenkins Helm Chart
 
 Jenkins master and slave cluster utilizing the Jenkins Kubernetes plugin
